@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\CSharpRegistrationSystem\bin\Debug\net6.0\CSharpRegistrationSystem.exe
+C:\Users\PC\source\repos\CSharpRegistrationSystem\bin\Debug\net6.0\CSharpRegistrationSystem.deps.json
+C:\Users\PC\source\repos\CSharpRegistrationSystem\bin\Debug\net6.0\CSharpRegistrationSystem.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpRegistrationSystem\bin\Debug\net6.0\CSharpRegistrationSystem.dll
+C:\Users\PC\source\repos\CSharpRegistrationSystem\bin\Debug\net6.0\CSharpRegistrationSystem.pdb
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.dll
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\refint\CSharpRegistrationSystem.dll
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.pdb
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\CSharpRegistrationSystem.genruntimeconfig.cache
+C:\Users\PC\source\repos\CSharpRegistrationSystem\obj\Debug\net6.0\ref\CSharpRegistrationSystem.dll
